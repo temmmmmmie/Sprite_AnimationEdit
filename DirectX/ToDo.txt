@@ -1,0 +1,29 @@
+1. 오브젝트 삭제 루틴
+
+2. 동적 재질
+ 
+3. SpriteRender 응용, Flipbook Animation 만들기
+  - AFlipbook 에셋
+  - CFlipbookRender 컴포넌트, AFlipbook 을 재생할 수 있는 컴포넌트
+
+4. ImGui 를 이용한 에디터 설계
+  - ATexture 점검, RenderTarget, DepthStencilTarget 전환
+
+5. TileRender 컴포넌트
+  - 타일 기반 지형 디자인 컴포넌트
+  - StructuredBuffer 구조화 버퍼
+
+6. ParticleRender 컴포넌트
+  - 미세한 입자단위를 시뮬레이션 하고 렌더링 할 수 있는 컴포넌트
+  - ComputeShader, GPGPU
+
+7. PostProcess
+  - 화면 후처리 작업, 다양한 화면 효과(Fade In/Out, 흑백, 블러, 안개, 왜곡 등등)
+
+
+
+
+
+
+
+
